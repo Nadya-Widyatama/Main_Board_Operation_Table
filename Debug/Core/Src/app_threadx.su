@@ -1,0 +1,16 @@
+../Core/Src/app_threadx.c:97:6:App_ThreadX_Init	56	static
+../Core/Src/app_threadx.c:121:6:MX_ThreadX_Init	8	static
+../Core/Src/app_threadx.c:134:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/app_threadx.c:144:6:SetMotorSpeed	16	static
+../Core/Src/app_threadx.c:149:6:SetRotaryMotor	16	static
+../Core/Src/app_threadx.c:154:6:SetMotorPump	16	static
+../Core/Src/app_threadx.c:158:6:UART_Receiver	16	static
+../Core/Src/app_threadx.c:265:6:UART_Transmit	80	static
+../Core/Src/app_threadx.c:287:6:LD1_thread_entry	16	static
+../Core/Src/app_threadx.c:293:6:ROTARY_thread	16	static
+../Core/Src/app_threadx.c:299:6:Set_satu	16	static
+../Core/Src/app_threadx.c:309:6:set	8	static
+../Core/Src/app_threadx.c:326:6:Selenoid_STOP	8	static
+../Core/Src/app_threadx.c:333:6:Selenoid_UP	8	static
+../Core/Src/app_threadx.c:340:6:Selenoid_DOWN	8	static
+../Core/Src/app_threadx.c:348:6:EXTI9_5_IRQHandler	8	static
